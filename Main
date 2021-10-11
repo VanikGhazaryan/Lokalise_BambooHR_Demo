@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>...</head>
-<body ba-theme data-feature-toggles>
-<div id="sessionMessage>...</div>
-<div id="login-page">...</div> flex == $0
-</body>
-</html>
